@@ -3,7 +3,7 @@ This project aims to develop a sentiment analysis classifier using deep learning
 
 By employing Keras and Python, this project demonstrates the application of advanced Natural Language Processing (NLP) techniques in text classification, paving the way for further exploration in sentiment analysis and related fields. 
 
-This repository contains a Python implementation of an image classification project focused on detecting frost in images using Convolutional Neural Networks (CNN) and Transfer Learning techniques with pre-trained models. The goal is to create a robust classification system that can distinguish between images with frost and those without it, leveraging the power of deep learning for high accuracy.
+> This repository contains a Python implementation of an image classification project for DSCI 552 which is focused on detecting frost in images using Convolutional Neural Networks (CNN) and Transfer Learning techniques with pre-trained models. The goal is to create a robust classification system that can distinguish between images with frost and those without it, leveraging the power of deep learning for high accuracy.
 
 ## Project Overview
 
